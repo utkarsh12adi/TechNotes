@@ -1,2 +1,4 @@
 # TechNotes
-Project by Utkarsh
+Project by Utkarsh.
+
+Developing technotes project
