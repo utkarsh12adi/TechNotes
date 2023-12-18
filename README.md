@@ -1,4 +1,4 @@
 # TechNotes
 Project by Utkarsh.
 
-Developing technotes project
+Developing technotes project Gowtham
